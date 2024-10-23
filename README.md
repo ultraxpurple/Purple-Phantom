@@ -32,7 +32,7 @@ This tool goes beyond the traditional methods of directory discovery, which rely
    cd Purple-Phantom
    ```
 
-3. Install required libraries:
+3. Install required libraries (if needed):
    ```bash
    pip install -r requirements.txt
    ```
